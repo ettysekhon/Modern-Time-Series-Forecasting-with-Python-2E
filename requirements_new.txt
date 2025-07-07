@@ -3,7 +3,7 @@ xgboost>=2.0.0,<3.0.0
 scikit-learn>=0.21.2,<2.0.0
 pandas>=2.0.0,<3.0.0
 catboost>=1.0.0,<2.0.0
-lightgbm>=3.0.0,<4.0.0
+lightgbm==4.6.0
 category_encoders>=2.2.0,<3.0.0
 ipywidgets>=7.6.0,<9.0.0
 jupyterlab>=3.0.0,<4.0.0
@@ -34,7 +34,7 @@ omegaconf>=2.0.0,<3.0.0
 tensor-sensor[torch]>=1.0.0,<2.0.0
 pytorch_optimizer>=3.0.0,<4.0.0
 pickleshare>=0.7.5,<1.0.0
-kaleido==0.1.0.post1
+kaleido>=0.2.1
 pyarrow>=10.0.1,<11.0.0
 fastparquet>=2024.2.0, <2024.5.0
 lxml>=5.2.1,<6.0.0
